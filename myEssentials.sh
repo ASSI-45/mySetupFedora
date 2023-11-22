@@ -8,6 +8,7 @@ sudo dnf install -y vim neovim python3-neovim lsd htop btop fzf neofetch
 #lunarvim
 LV_BRANCH='release-1.3/neovim-0.9' bash <(curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.3/neovim-0.9/utils/installer/install.sh)
 
+
 #firefox plugins
 firefox https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
 firefox https://addons.mozilla.org/en-US/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
